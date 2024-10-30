@@ -89,7 +89,7 @@ console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivelHeroi}`);
 
 ## 📌 Referências
 
-Este projeto foi desenvolvido como parte do desafio da [Digital Innovation One]( https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2)
+Este projeto foi desenvolvido como parte do desafio do Bootcamp "R iHappy - Front-end do zero" da [Dio - Digital Innovation One]( https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2), 
 
 Se você achou esse projeto interessante, sinta-se à vontade para dar uma ⭐ no repositório!
 </br>
