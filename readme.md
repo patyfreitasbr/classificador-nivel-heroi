@@ -13,6 +13,7 @@ O projeto classifica um herói em diferentes níveis com base no valor de sua ex
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML
+- Lógica da programação
 - JavaScript
 
 ## 🎯 Objetivo
